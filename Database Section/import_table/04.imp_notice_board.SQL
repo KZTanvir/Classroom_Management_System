@@ -1,0 +1,90 @@
+INSERT INTO notice_board
+    VALUES(
+    notice_board_seq.NEXTVAL,
+    12,
+    DEFAULT,
+    'BANGLA',
+    'THE NEXT BANGLA QUIZ WILL BE HELD AT WEDNESDAY AT CLASS TIME',
+    SYSDATE
+    );
+INSERT INTO notice_board
+    VALUES(
+    notice_board_seq.NEXTVAL,
+    14,
+    'ROUTINE',
+    DEFAULT,
+    'A NEW ROUTINE HAS BEEN PUBLISHED! PLEASE COLLECT IT FROM YOUR TEACHER',
+    SYSDATE
+    );
+INSERT INTO notice_board
+    VALUES(
+    notice_board_seq.NEXTVAL,
+    13,
+    DEFAULT,
+    'BANGLA',
+    'THE NEXT BANGLA QUIZ WILL BE HELD AT WEDNESDAY AT CLASS TIME',
+    '10-JAN-2022'
+    );
+INSERT INTO notice_board
+    VALUES(
+    notice_board_seq.NEXTVAL,
+    12,
+    DEFAULT,
+    'GEOMETRY',
+    'THE NEXT GEOMETRY QUIZ WILL BE HELD AT SUNDAY AT CLASS TIME',
+    '14-JAN-2022'
+    );
+INSERT INTO notice_board
+    VALUES(
+    notice_board_seq.NEXTVAL,
+    12,
+    DEFAULT,
+    DEFAULT,
+    'THE FINAL EXAM HAS BEEN CANCELLED FOR SOME UNFORTUNAGE REASON!',
+    '14-JAN-2022'
+    );
+INSERT INTO notice_board
+    VALUES(
+    notice_board_seq.NEXTVAL,
+    12,
+    DEFAULT,
+    'SCIENCE',
+    'NEXT CLASS OF THE FINAL EXAM HAS BEEN CANCELLED!',
+    '15-FEB-2022'
+    );
+INSERT INTO notice_board
+    VALUES(
+    notice_board_seq.NEXTVAL,
+    16,
+    'RESULT',
+    'GEOMETRY',
+    'THE RESULT OF GEOMETRY HAS BEEN PUBLISHED',
+    '14-DEC-2022'
+    );
+INSERT INTO notice_board
+    VALUES(
+    notice_board_seq.NEXTVAL,
+    12,
+    DEFAULT,
+    'INFORMATION AND COMMUNICATION TECHNOLOGY',
+    'THE NEXT ICT(INFORMAITON  AND COMMUNICATION TECHNOLOGY) QUIZ WILL BE HELD AT FRUDAT ONLINE',
+    '14-APR-2022'
+    );
+INSERT INTO notice_board
+    VALUES(
+    notice_board_seq.NEXTVAL,
+    12,
+    DEFAULT,
+    'GEOMETRY',
+    'THE NEXT GEOMETRY QUIZ WILL BE HELD AT SUNDAY AT CLASS TIME',
+    '7-DEC-2022'
+    );
+INSERT INTO notice_board
+    VALUES(
+    notice_board_seq.NEXTVAL,
+    12,
+    'RESULT',
+    DEFAULT,
+    'THE NEXT GEOMETRY RESULT HAS BEEN PUBLISHED!',
+    '20-JAN-2022'
+    );
